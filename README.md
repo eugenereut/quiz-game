@@ -1,6 +1,6 @@
 ## quiz-game
 
-r```
+```
 Q:	How do you catch a unique rabbit?
 A:	Unique up on it!
 
